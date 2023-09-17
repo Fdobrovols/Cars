@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    max-width: 1440px;
+    padding: 10px 128px;
+}
+
+.containerLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerIcon{
+    width:18px ;
+    height: 18px;
+    color: rgba(52, 112, 255, 1);
+}
+
+.logo{
+    margin-left: 10px;
+    color: rgba(52, 112, 255, 1);
+}
+ 
+.logoPart{
+    color: #90a9b1;
+}
+
+.navContainer{
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.navLink{
+    color:rgba(52, 112, 255, 1);
+    font-size: 18px;
+}
+
+.navLink:hover {
+    color:rgba(11, 68, 205, 1);
+    font-weight: bold;
+}
