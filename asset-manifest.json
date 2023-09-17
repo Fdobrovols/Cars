@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Cars/static/css/main.a0a772a7.css",
+    "main.js": "/Cars/static/js/main.ff919faa.js",
+    "static/css/674.2e4fdf63.chunk.css": "/Cars/static/css/674.2e4fdf63.chunk.css",
+    "static/js/674.9396c592.chunk.js": "/Cars/static/js/674.9396c592.chunk.js",
+    "static/css/721.66563fcb.chunk.css": "/Cars/static/css/721.66563fcb.chunk.css",
+    "static/js/721.a1b252f2.chunk.js": "/Cars/static/js/721.a1b252f2.chunk.js",
+    "static/css/145.88f1c44f.chunk.css": "/Cars/static/css/145.88f1c44f.chunk.css",
+    "static/js/145.24eacb80.chunk.js": "/Cars/static/js/145.24eacb80.chunk.js",
+    "static/js/321.310a824b.chunk.js": "/Cars/static/js/321.310a824b.chunk.js",
+    "static/media/backgroundimages.jpg": "/Cars/static/media/backgroundimages.7b81edf7c3cf70ffae74.jpg",
+    "static/media/FoundImage.jpeg": "/Cars/static/media/FoundImage.982c394401c5d8ff2dcd.jpeg",
+    "static/media/DefaultImage.jpeg": "/Cars/static/media/DefaultImage.2f1dfdb3f92f50a95b90.jpeg",
+    "index.html": "/Cars/index.html",
+    "static/media/Manrope-Medium.ttf": "/Cars/static/media/Manrope-Medium.31d6cfe0d16ae931b73c.ttf",
+    "static/media/Manrope-Regular.ttf": "/Cars/static/media/Manrope-Regular.31d6cfe0d16ae931b73c.ttf",
+    "static/media/Manrope-SemiBold.ttf": "/Cars/static/media/Manrope-SemiBold.31d6cfe0d16ae931b73c.ttf",
+    "main.a0a772a7.css.map": "/Cars/static/css/main.a0a772a7.css.map",
+    "main.ff919faa.js.map": "/Cars/static/js/main.ff919faa.js.map",
+    "674.2e4fdf63.chunk.css.map": "/Cars/static/css/674.2e4fdf63.chunk.css.map",
+    "674.9396c592.chunk.js.map": "/Cars/static/js/674.9396c592.chunk.js.map",
+    "721.66563fcb.chunk.css.map": "/Cars/static/css/721.66563fcb.chunk.css.map",
+    "721.a1b252f2.chunk.js.map": "/Cars/static/js/721.a1b252f2.chunk.js.map",
+    "145.88f1c44f.chunk.css.map": "/Cars/static/css/145.88f1c44f.chunk.css.map",
+    "145.24eacb80.chunk.js.map": "/Cars/static/js/145.24eacb80.chunk.js.map",
+    "321.310a824b.chunk.js.map": "/Cars/static/js/321.310a824b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a772a7.css",
+    "static/js/main.ff919faa.js"
+  ]
+}
